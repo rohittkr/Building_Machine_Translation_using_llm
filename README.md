@@ -16,6 +16,7 @@ This project demonstrates how to build a machine translation system using pre-tr
 - [Zero-Shot Inference](#zero-shot-inference)
 - [LoRA Fine-Tuning](#lora-fine-tuning)
 - [Translation Inference](#translation-inference)
+- [Google Colab Links](#google-colab-links)
 - [Results](#results)
 - [References](#references)
 
