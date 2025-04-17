@@ -16,11 +16,26 @@ This project demonstrates how to build a machine translation system using pre-tr
 - [Zero-Shot Inference](#zero-shot-inference)
 - [LoRA Fine-Tuning](#lora-fine-tuning)
 - [Translation Inference](#translation-inference)
-- [Google Colab Links](#google-colab-links)
 - [Results](#results)
 - [References](#references)
 
 ---
+---
+
+## 🔗 Google Colab Links
+
+You can open and run the complete notebooks on Google Colab using the links below:
+
+- 🚀 **English to Hindi Translation (Full Training & Inference)**  
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lFLhJqSDZU0SJ0NnZ-EjXCkRV1YmJiVF?usp=sharing)
+
+- ⚙️ **LoRA Fine-Tuning Notebook**  
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1At45am6mjqDRfk7W5RLq7TmulyJI65xA?usp=sharing)
+
+> Make sure you're logged into a Google account with Colab access. If you see a “permission denied” error, request access to the notebook via the share button in Colab.
+
+---
+
 
 ## 📖 Overview
 
